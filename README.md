@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning HTML, CSS, JavaSCript, Node, React, SQL
 - 👯 I’m looking to collaborate on learning starting level web projects
 - 🤔 I’m looking for help with tips about learning developing skills and changing professional area
-- 📫 How to reach me: @marriett
+- 📫 How to reach me: <a href="https://twitter.com/marriett"> @marriett </a>
