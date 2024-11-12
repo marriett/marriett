@@ -1,7 +1,6 @@
 ### Hello, people 👋
 
-- 🔭 I’m currently working with Brand strategy planning, but looking to switch to a web developer branch of work
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node, React, SQL
-- 👯 I’m looking to collaborate on learning starting level web projects
-- 🤔 I’m looking for help with tips about learning developing skills and changing professional area
+- 🔭 I’m currently working as a QA Analyst
+- 🌱 I’m currently learning Cypress, HTML, CSS, JavaScript, Node
+- 👯 I’m always looking to collaborate on learning level web projects to keep developing my skills
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/marriett-albuquerque/"> @marriett </a>
